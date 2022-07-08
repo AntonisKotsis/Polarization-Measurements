@@ -1,5 +1,6 @@
 # Polarization-Measurements
 Code for my bachelor's thesis with subject: Analyze and Measure Polarization on Covid-19
+Implemented using Python. The main object of the thesis was to prove that Covid-19 is a cotroversial subject by constantly observing Tweets of two Twitter user groups which we called **supporters and **deniers.
 
 Pipeline
 --------
